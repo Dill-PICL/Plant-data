@@ -1,0 +1,14 @@
+nltk
+pywsd
+scikit-learn
+matplotlib
+pandas
+seaborn
+networkx
+nltk
+Bio
+gensim==3.8.2
+statsmodels
+pytorch-pretrained-bert
+pronto
+rapidfuzz

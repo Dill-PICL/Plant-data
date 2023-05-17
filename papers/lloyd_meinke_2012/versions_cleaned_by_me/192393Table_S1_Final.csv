@@ -1,0 +1,43 @@
+﻿Group Symbol,Group Name,Class Symbol,Class Name,Subset Symbol,Subset Number,Subset Name and Description 
+ESN,Essential,G,Gametophyte,GAM,1,Gametophyte defective (<2% mutant seeds)
+ESN,Essential,G,Gametophyte,GEM,2,"Gametophyte, embryo defective (2-10% mutant seeds)"
+ESN,Essential,G,Gametophyte,EMG,3,"Embryo, gametophyte defective (>10% mutant seeds)"
+ESN,Essential,G,Gametophyte,MGD,4,Miscellaneous gametophyte defective
+ESN,Essential,S,Embryo / Seed,EMB,5,True embryo defective; No known gametophyte defects
+ESN,Essential,S,Embryo / Seed,MSD,6,Miscellaneous seed defective
+ESN,Essential,L,Lethal,NHM,7,No homozygous mutant plants; Cause not determined
+ESN,Essential,L,Lethal,SRL,8,"Seedling, rosette lethal; Severe seedling defective"
+MRP,Morphological,V,Vegetative,GER,9,"Germination: Rate, frequency; seed dormancy"
+MRP,Morphological,V,Vegetative,NLS,10,"Non-lethal seedling: Cotyledon, hypocotyl"
+MRP,Morphological,V,Vegetative,PIG,11,Pigmentation: Plant coloration
+MRP,Morphological,V,Vegetative,GRS,12,"Plant growth rate, size"
+MRP,Morphological,V,Vegetative,ROT,13,"Root: Size, morphology, growth rate"
+MRP,Morphological,V,Vegetative,LEF,14,"Leaf: Size, morphology, number"
+MRP,Morphological,V,Vegetative,IST,15,"Inflorescence stem: Length, morphology"
+MRP,Morphological,V,Vegetative,ARC,16,Shoot architecture: Branching; phyllotaxy; growth pattern
+MRP,Morphological,V,Vegetative,MSL,17,"Miscellaneous shoot, leaf morphology"
+MRP,Morphological,R,Reproductive,FSM,18,"Floral, silique morphology"
+MRP,Morphological,R,Reproductive,OVP,19,"Ovule, pollen; sporophytic"
+MRP,Morphological,R,Reproductive,SRF,20,"Sterility, reduced fertility; sporophytic"
+MRP,Morphological,R,Reproductive,SSC,21,"Seed, seed coat; maternal sporophytic"
+MRP,Morphological,T,Timing,FLT,22,Flowering time
+MRP,Morphological,T,Timing,SEN,23,Senescence
+MRP,Morphological,T,Timing,CDR,24,Circadian rhythms
+MRP,Morphological,T,Timing,MTM,25,Miscellaneous timing; Phase change; vernalization
+CLB,Cellular and Biochemical,C,Cellular,STT,26,"Stomata, trichomes: Distribution, morphology"
+CLB,Cellular and Biochemical,C,Cellular,RTH,27,"Root hairs: Distribution, morphology"
+CLB,Cellular and Biochemical,C,Cellular,TCM,28,"Tissue, cell morphology: Structure, shape, patterning"
+CLB,Cellular and Biochemical,C,Cellular,CUL,29,"Cell ultrastructure: Organelles, chromosomes, cytoskeleton"
+CLB,Cellular and Biochemical,B,Biochemical,PRA,30,"Product accumulation: Hormones, metabolites, storage products"
+CLB,Cellular and Biochemical,B,Biochemical,CPR,31,"Cellular, physiological processes"
+CND,Conditional,P,Physical,WAT,32,"Water levels, availability"
+CND,Conditional,P,Physical,TMP,33,Temperature
+CND,Conditional,P,Physical,LIT,34,"Light: Amount, type, duration, direction"
+CND,Conditional,P,Physical,MEC,35,"Mechanical stimulus: Touch, pressure"
+CND,Conditional,P,Physical,MPH,36,Miscellaneous physical conditions
+CND,Conditional,H,Chemical,NUT,37,"Nutrient levels, availability"
+CND,Conditional,H,Chemical,HRM,38,Exogenous hormones
+CND,Conditional,H,Chemical,CHS,39,"Chemical stress, toxins, mutagens"
+CND,Conditional,H,Chemical,MCH,40,Miscellaneous chemicals
+CND,Conditional,I,Biological,PTH,41,"Pathogens, herbivores"
+CND,Conditional,I,Biological,OBI,42,Other biological interactors
