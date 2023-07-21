@@ -6,7 +6,7 @@
 The purpose of this repository is to document the collection of a dataset that organized information about plant genes, phenotypes, and annotations from a variety of data sources, and contains notebooks and scripts for preprocessing and combining this information. The intended use of the dataset is for looking into how well natural language processing (NLP) approaches work for recovering or predicting biological information from text descriptions of phenotypes, compared to using ontology-based annotations to make equivalent predictions.
 
 ### Dataset 
-Here is the publicly available dataset: https://zenodo.org/record/7947342
+Here is the dataset link: https://zenodo.org/record/7947342
 
 ### What's here?
 1. All the files that were used for this dataset are listed in `file_descriptions.tsv`, which includes links to the original data source where applicable. These come from databases, papers, and other bioinformatics resources. Note that the files listed are not actually present in this repository, because some are only available through database subscriptions or requests. 
